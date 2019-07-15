@@ -1,0 +1,14 @@
+C:\Users\MP\source\repos\ApPist\ApPist.Business\bin\Debug\netcoreapp2.1\ApPist.Business.deps.json
+C:\Users\MP\source\repos\ApPist\ApPist.Business\bin\Debug\netcoreapp2.1\ApPist.Business.dll
+C:\Users\MP\source\repos\ApPist\ApPist.Business\bin\Debug\netcoreapp2.1\ApPist.Business.pdb
+C:\Users\MP\source\repos\ApPist\ApPist.Business\bin\Debug\netcoreapp2.1\ApPist.DataAccess.dll
+C:\Users\MP\source\repos\ApPist\ApPist.Business\bin\Debug\netcoreapp2.1\ApPist.Domain.dll
+C:\Users\MP\source\repos\ApPist\ApPist.Business\bin\Debug\netcoreapp2.1\ApPist.DataAccess.pdb
+C:\Users\MP\source\repos\ApPist\ApPist.Business\bin\Debug\netcoreapp2.1\ApPist.Domain.pdb
+C:\Users\MP\source\repos\ApPist\ApPist.Business\obj\Debug\netcoreapp2.1\ApPist.Business.csprojAssemblyReference.cache
+C:\Users\MP\source\repos\ApPist\ApPist.Business\obj\Debug\netcoreapp2.1\ApPist.Business.csproj.CoreCompileInputs.cache
+C:\Users\MP\source\repos\ApPist\ApPist.Business\obj\Debug\netcoreapp2.1\ApPist.Business.AssemblyInfoInputs.cache
+C:\Users\MP\source\repos\ApPist\ApPist.Business\obj\Debug\netcoreapp2.1\ApPist.Business.AssemblyInfo.cs
+C:\Users\MP\source\repos\ApPist\ApPist.Business\obj\Debug\netcoreapp2.1\ApPist.Business.csproj.CopyComplete
+C:\Users\MP\source\repos\ApPist\ApPist.Business\obj\Debug\netcoreapp2.1\ApPist.Business.dll
+C:\Users\MP\source\repos\ApPist\ApPist.Business\obj\Debug\netcoreapp2.1\ApPist.Business.pdb

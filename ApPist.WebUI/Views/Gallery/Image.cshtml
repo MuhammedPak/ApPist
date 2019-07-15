@@ -1,0 +1,90 @@
+﻿@model ApPist.WebUI.Models.Gallery.ImageModel
+
+<form method="post" enctype="multipart/form-data"
+      asp-controller="Gallery" asp-action="UploadFile">
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="file" name="file" class="btn btn-success" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-10" style="padding-top:10px">
+            <input type="submit" value="Upload File" class="btn btn-success" />
+        </div>
+    </div>
+    <hr />
+</form>
+
+
+<div class="tab-pane" id="tab_images">
+    <div class="row">
+        <div id="tab_images_uploader_filelist" class="col-md-6 col-sm-12" style="padding-top:50px"> </div>
+    </div>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr role="row" class="heading">
+                <th width="8%"> Gif </th>
+                <th width="8%"> Slogan </th>
+                <th width="10%">Aktif</th>
+                <th width="10%">Düzenle</th>
+                <th width="10%">Sil</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var image in Model.Images)
+            {
+                <tr>
+                    <td>
+                        <a class="fancybox-button" data-rel="fancybox-button">
+                            <img style="width:70%;height:20%" class="img-responsive" src="~/Images/@image.Path" alt="">
+                        </a>
+                    </td>
+                    <td>
+                        <textarea class="form-control" style="width:250px;height:100px"></textarea>
+                    </td>
+
+                    <td style="padding-left:80px;padding-top:50px">
+                        <input type="checkbox" class="make-switch switch-large"
+                               data-label-icon="fa fa-fullscreen" data-on-text="<i class='fa fa-check'></i>"
+                               data-off-text="<i class='fa fa-times'></i>">
+                    </td>
+
+                    <td style="padding-left:80px;padding-top:50px">
+                        <a class="btn green" data-toggle="modal" href="#mdlUpdate">Düzenle</a>
+                    </td>
+                    <td style="padding-left:80px;padding-top:50px">
+                        <a class="btn btn-danger" asp-controller="Gallery" asp-action="DeleteImage">
+                            <i class="fa fa-times"></i> Sil
+                        </a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
+
+<div class="modal fade" id="mdlUpdate" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-full">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <h4 class="modal-title">Modal Title</h4>
+            </div>
+            <div class="modal-body">
+                <partial name="_CkEditor" />
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn dark btn-outline" data-dismiss="modal">Close</button>
+                <button type="button" class="btn green">Save changes</button>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+
+
+

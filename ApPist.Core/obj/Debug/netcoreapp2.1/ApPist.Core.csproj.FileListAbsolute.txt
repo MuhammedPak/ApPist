@@ -1,0 +1,9 @@
+C:\Users\MP\source\repos\ApPist\ApPist.Core\bin\Debug\netcoreapp2.1\ApPist.Core.deps.json
+C:\Users\MP\source\repos\ApPist\ApPist.Core\bin\Debug\netcoreapp2.1\ApPist.Core.dll
+C:\Users\MP\source\repos\ApPist\ApPist.Core\bin\Debug\netcoreapp2.1\ApPist.Core.pdb
+C:\Users\MP\source\repos\ApPist\ApPist.Core\obj\Debug\netcoreapp2.1\ApPist.Core.csprojAssemblyReference.cache
+C:\Users\MP\source\repos\ApPist\ApPist.Core\obj\Debug\netcoreapp2.1\ApPist.Core.csproj.CoreCompileInputs.cache
+C:\Users\MP\source\repos\ApPist\ApPist.Core\obj\Debug\netcoreapp2.1\ApPist.Core.AssemblyInfoInputs.cache
+C:\Users\MP\source\repos\ApPist\ApPist.Core\obj\Debug\netcoreapp2.1\ApPist.Core.AssemblyInfo.cs
+C:\Users\MP\source\repos\ApPist\ApPist.Core\obj\Debug\netcoreapp2.1\ApPist.Core.dll
+C:\Users\MP\source\repos\ApPist\ApPist.Core\obj\Debug\netcoreapp2.1\ApPist.Core.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApPist.DataAccess\ApPist.DataAccess.csproj" />
+    <ProjectReference Include="..\ApPist.Domain\ApPist.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

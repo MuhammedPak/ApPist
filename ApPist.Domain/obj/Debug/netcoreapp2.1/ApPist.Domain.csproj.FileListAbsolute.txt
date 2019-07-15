@@ -1,0 +1,12 @@
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\bin\Debug\netcoreapp2.1\ApPist.Domain.deps.json
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\bin\Debug\netcoreapp2.1\ApPist.Domain.dll
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\bin\Debug\netcoreapp2.1\ApPist.Domain.pdb
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\obj\Debug\netcoreapp2.1\ApPist.Domain.csprojAssemblyReference.cache
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\obj\Debug\netcoreapp2.1\ApPist.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\obj\Debug\netcoreapp2.1\ApPist.Domain.AssemblyInfoInputs.cache
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\obj\Debug\netcoreapp2.1\ApPist.Domain.AssemblyInfo.cs
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\obj\Debug\netcoreapp2.1\ApPist.Domain.csproj.CopyComplete
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\obj\Debug\netcoreapp2.1\ApPist.Domain.dll
+C:\Users\MP\source\repos\ApPist\ApPist.Domain\obj\Debug\netcoreapp2.1\ApPist.Domain.pdb

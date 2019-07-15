@@ -1,0 +1,12 @@
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\bin\Debug\netcoreapp2.1\ApPist.DataAccess.deps.json
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\bin\Debug\netcoreapp2.1\ApPist.DataAccess.dll
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\bin\Debug\netcoreapp2.1\ApPist.DataAccess.pdb
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\bin\Debug\netcoreapp2.1\ApPist.Domain.dll
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\bin\Debug\netcoreapp2.1\ApPist.Domain.pdb
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\obj\Debug\netcoreapp2.1\ApPist.DataAccess.csprojAssemblyReference.cache
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\obj\Debug\netcoreapp2.1\ApPist.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\obj\Debug\netcoreapp2.1\ApPist.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\obj\Debug\netcoreapp2.1\ApPist.DataAccess.AssemblyInfo.cs
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\obj\Debug\netcoreapp2.1\ApPist.DataAccess.csproj.CopyComplete
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\obj\Debug\netcoreapp2.1\ApPist.DataAccess.dll
+C:\Users\MP\source\repos\ApPist\ApPist.DataAccess\obj\Debug\netcoreapp2.1\ApPist.DataAccess.pdb
